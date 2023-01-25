@@ -1,0 +1,17 @@
+solved python questions 
+1.https://www.hackerrank.com/challenges/whats-your-name/problem?isFullScreen=true
+2.https://www.hackerrank.com/challenges/python-mutations/problem?isFullScreen=true&h_r=next-challenge&h_v=zen
+3. https://www.hackerrank.com/challenges/python-loops/problem?h_r=internal-search&isFullScreen=true
+4. https://leetcode.com/problems/remove-element/
+class Solution(object):
+    def removeElement(self, nums, val):
+        while val in nums:
+            nums.remove(val)
+5.https://leetcode.com/problems/remove-duplicates-from-sorted-array
+def removeDuplicates(self, nums):
+                j = 0
+                for i in range(1, len(nums)):
+                        if nums[j] != nums[i]:
+                                j += 1
+                                nums[j] = nums[i]
+                return j + 1
