@@ -1,0 +1,108 @@
+1. solved sql questions on leetcode
+1.1 https://leetcode.com/problems/combine-two-tables/description/
+
+select Person.firstName,Person.lastName,Address.city,Address.state 
+from Person left join Address on Person.personId=Address.personId;
+
+1.2 https://leetcode.com/problems/duplicate-emails/
+select email from Person group by email having count(email)>1;
+
+1.3 https://leetcode.com/problems/daily-leads-and-partners/
+select date_id,make_name,
+count(distinct(lead_id)) as unique_leads,
+count(distinct(partner_id)) as unique_partners 
+from DailySales group by date_id,make_name;
+
+1.4 https://leetcode.com/problems/find-followers-count/
+select user_id,count(follower_id) as followers_count 
+from followers group by user_id order by user_id;
+
+1.5 https://leetcode.com/problems/second-highest-salary/
+select max(salary) as SecondHighestSalary from employee 
+where salary<(select max(salary) from employee);
+
+1.6 https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/
+select customer_number from orders 
+group by customer_number 
+order by count(order_number) desc limit 1;
+
+1.7 https://leetcode.com/problems/game-play-analysis-i/
+select player_id, min(event_date) as first_login 
+from activity group by player_id order by player_id;
+
+1.8 https://leetcode.com/problems/the-latest-login-in-2020/
+select user_id,max(time_stamp) as last_stamp
+from logins where year(time_stamp)=2020
+group by user_id ;
+1.9 https://leetcode.com/problems/find-total-time-spent-by-each-employee/
+select event_day as day,emp_id, sum(out_time-in_time) as total_time
+from employees group by event_day,emp_id order by day;
+1.10 https://leetcode.com/problems/top-travellers/
+select users.name as name,sum(ifnull(rides.distance,0)) as travelled_distance 
+from users left join rides on users.id=rides.user_id 
+group by rides.user_id order by travelled_distance desc,name;
+
+
+2. solved python questions 
+1. https://leetcode.com/problems/palindrome-number/
+def isPalindrome(self, x: int) -> bool:
+        if str(x)==str(x)[::-1] :
+            return True
+        else:
+            return False
+2.https://leetcode.com/problems/roman-to-integer/
+def romanToInt(self, s: str) -> int:
+        dic={'I':1,'V':5,'X':10,'L':50,'C':100,'D':500,'M':1000,}
+        num=0
+        for i in s:
+            num=num+dic[i]
+        if "IV" in s:
+            num=num-2
+        if "IX" in s:
+            num=num-2
+        if "XL" in s:
+            num=num-20
+        if "XC" in s:
+            num=num-20
+        if "CD" in s:
+            num=num-200
+        if "CM" in s:
+            num=num-200
+        return num
+3.https://leetcode.com/problems/excel-sheet-column-title/
+def convertToTitle(self, columnNumber: int) -> str:
+        output = ""
+       
+        while columnNumber > 0:
+           
+            output = chr(ord('A') + (columnNumber - 1) % 26) + output
+            
+            columnNumber = (columnNumber - 1) // 26
+       
+        return output
+
+4.https://leetcode.com/problems/valid-anagram/
+def isAnagram(self, s: str, t: str) -> bool:
+        return sorted(s)==sorted(t)
+5.https://leetcode.com/problems/last-stone-weight/
+def laststone(stones):
+  while len(stones)>1:
+    stones.sort()
+    x=stones.pop()
+    y=stones.pop()
+    if x>y:
+       for i in range(len(stones)+1):
+         if i == len(stones) or stones[i] >= x--y:
+           stones.insert(i, x-y)
+           break   
+    else:
+      continue
+
+  return stones
+
+list1=[]
+n=int(input())
+for i in range (0,n):
+  x=int(input())
+  list1.append(x)
+print(laststone(list1))
