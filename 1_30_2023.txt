@@ -1,0 +1,167 @@
+1. solved python questions
+1.'''Write a python code to find all elements that appear more than ⌊ n/3 ⌋ times where n is size of the integer array and return the 
+list of those elements. TC -> O(N)
+Input: nums = [3,2,3]
+Output: [3]'''
+
+list1=[]
+n1=int(input())
+for i in range (0,n1):
+  x=int(input())
+  list1.append(x)
+list2=list(set(list1))
+n2=len(list2)
+list3=[]
+for i in range (0,n2):
+  p=list1.count(list2[i])
+  if p>n1//3:
+    list3.append(list2[i])
+print(list3)
+  
+2.
+def longcontigioussubarray(arr,n):
+  sum=0
+  maxlen=-1
+  for i in range (0,n-1):
+    if arr[i]==1:
+      sum=1
+    if arr[i]==0:
+      sum=-1
+    for j in range (i+1,n):
+      if arr[j]==1:
+        p=1
+      if arr[j]==0:
+        p=-1
+      sum=sum+p
+      if sum==0 and maxlen<j-i+1:
+        maxlen=j-i+1
+        index=i
+  if maxlen==-1:
+    return 0
+  else :
+    return maxlen
+        
+list1=[]
+n1=int(input())
+for i in range (0,n1):
+  x=int(input(),2)
+  list1.append(x)
+print("Max length of contigious subarray :",longcontigioussubarray(list1,n1))
+
+3.'''Majority Element
+https://leetcode.com/problems/majority-element/
+'''
+def majorityele(nums):
+  n=len(nums)
+  list2=list(set(nums))
+  for i in range(0,len(list2)):
+    x=nums.count(list2[i])
+    if x>n//2:
+      return list2[i]
+list1=[]
+n1=int(input())
+for i in range (0,n1):
+  x=int(input())
+  list1.append(x)
+print(majorityele(list1))
+
+4.''' valid palindrome
+https://leetcode.com/problems/valid-palindrome/
+'''
+import re 
+s=str(input())
+s1= re.sub(r'[^a-zA-Z0-9]', '',s)
+s1=s1.lower()
+rev=s1[::-1]
+if s1==rev:
+  print('True')
+else:
+  print('False')
+
+5.'''Remove Element
+https://leetcode.com/problems/remove-element/description/
+'''
+def removeele(arr,val):
+  n=len(arr)
+  list2=[]
+  for i in range(0,n):
+    if arr[i]!=val:
+      list2.append(arr[i])
+  print(len(list2))
+  print(list2)
+
+n=int(input())
+list1=[]
+for i in range (0,n):
+  x=int(input())
+  list1.append(x)
+x=int(input())
+removeele(list1,x)
+
+6. '''square root
+https://leetcode.com/problems/sqrtx/
+'''
+import math
+def mysqrt(x):
+  sol=math.floor(pow(x,0.5))
+  return sol
+n=int(input())
+print(mysqrt(n))
+
+7.''' length of last word
+https://leetcode.com/problems/length-of-last-word/description/
+'''
+s=str(input())
+s1=s.strip()
+str=list(s1.split(" "))
+print(len(str[-1])) 
+
+8.'''https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
+'''
+def maxProfit(prices):
+  profit=0
+  x=0
+  for i in range (0,len(prices)):
+      if prices[i]<prices[x]:
+          x=i
+      profit=max(profit,prices[i]-prices[x])
+  return profit
+
+list1=[]
+n=int(input())
+for i in range (0,n):
+  x=int(input())
+  list1.append(x)
+print(maxProfit(list1))
+
+9.'''
+https://leetcode.com/problems/search-insert-position/
+'''
+def Searchinseart(nums,target):
+  if target in nums:
+    return nums.index(target)
+  else:
+    nums.append(target)
+    nums.sort()
+    return nums.index(target)
+n=int(input())
+list1=[]
+for i in range (0,n):
+  x=int(input())
+  list1.append(x)
+x=int(input())
+print(Searchinseart(list1,x))
+
+10.'''Alternating Digit Sum
+https://leetcode.com/problems/alternating-digit-sum/
+'''
+n=int(input())
+sum=0
+num=[int(x) for x in str(n)]
+p=len(num)
+for i in range(0,p):
+  if i%2==0:
+    sum+=num[i]
+  else:
+    sum=sum-num[i]
+print(sum)
