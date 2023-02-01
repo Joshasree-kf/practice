@@ -20,3 +20,22 @@ print(max(mylist))
 mylist.remove(max(mylist))
 print(max(mylist))
 mylist.append(y)
+
+def maxele2(arr,n):
+  max1=arr[0]
+  max2=arr[0]
+  for i in range (0,n):
+    if arr[i]>max1:
+      max2=max1
+      max1=arr[i]
+    else :
+      max2=max(max2,arr[i])
+  print("first maximum number =",max1)
+  print("second maximum number=",max2)
+
+list1=[]
+n=int(input())
+for i in range (0,n):
+  x=int(input())
+  list1.append(x)
+maxele2(list1,n)

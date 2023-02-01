@@ -30,3 +30,27 @@ for i in range (0,n):
     x=int(input())
     arr1.append(x)
 productarray(arr1,n)
+
+def productarray(arr, n):
+  if n==1:
+    return 0
+  product=[]
+  left=[0]*n
+  right=[0]*n
+  left[0]=1
+  right[n-1]=1
+  for i in range(1,n):
+    left[i]=left[i-1]*arr[i-1]
+  for j in range (n-2,-1,-1):
+    right[j]=right[j+1]*arr[j+1]
+  for k in range (0,n):
+    temp=right[k]*left[k]
+    product.append(temp)
+  return product
+
+arr1=[]
+n=int(input())
+for i in range (0,n):
+    x=int(input())
+    arr1.append(x)
+productarray(arr1,n)
