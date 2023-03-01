@@ -1,276 +1,276 @@
-,Continent,Region,Country,Exchange,Location,Founded,Listings,Link,Technology,Operating MIC
-0,America,North America,Canada,Canadian Securities Exchange,Toronto,2004.0,0.0,CSE,NaN,XCNQ
-1,America,North America,Canada,Montreal Exchange,Montreal,1872.0,0.0,MX,NaN,NaN
-2,America,North America,Canada,NASDAQ Canada,New York City,2000.0,0.0,Nasdaq Canada,NaN,NaN
-3,America,North America,Canada,Toronto Stock Exchange,Toronto,1861.0,0.0,TSX,NaN,NaN
-4,America,North America,Canada,TSX Venture Exchange,Calgary,2001.0,0.0,TSX,NaN,NaN
-5,America,North America,Canada,NEO Exchange,Toronto,2015.0,0.0,Aequitas Neo,NaN,NaN
-6,America,North America,Mexico,Bolsa Mexicana de Valores,Mexico City,1886.0,0.0,BMV,NaN,NaN
-7,America,North America,Mexico,BIVA - Bolsa Institucional de Valores,Mexico City,2017.0,0.0,BIVA,NaN,NaN
-8,America,North America,United States,BATS Global Markets,Lenexa,2005.0,0.0,BATS,NaN,NaN
-9,America,North America,United States,BZX Exchange,Chicago,2005.0,0.0,Cboe US Equities,NaN,NaN
-10,America,North America,United States,BYX Exchange,Chicago,2005.0,0.0,Cboe US Equities,NaN,NaN
-11,America,North America,United States,Boston Options Exchange,Boston,2002.0,0.0,BOX,NaN,NaN
-12,America,North America,United States,C2 Options Exchange,Chicago,2010.0,0.0,C2,NaN,NaN
-13,America,North America,United States,Chicago Board Options Exchange,Chicago,1973.0,0.0,CBOE,NaN,NaN
-14,America,North America,United States,"CBOE Stock Exchange- Ceased trading April 30, 2014",Chicago,1973.0,0.0,CBOE,NaN,NaN
-15,America,North America,United States,Chicago Stock Exchange,Chicago,1882.0,0.0,CHX,NaN,NaN
-16,America,North America,United States,EDGA and EDGX,Chicago,1998.0,0.0,Cboe US Equities,NaN,NaN
-17,America,North America,United States,IEX,New York City,2012.0,0.0,IEX,NaN,NaN
-18,America,North America,United States,ISE and ISE Gemini,New York City,2000.0,0.0,ISE,NaN,NaN
-19,America,North America,United States,Long Term Stock Exchange,New York City,2019.0,0.0,LTSE,NaN,NaN
-20,America,North America,United States,Members Exchange ,Jersey City,2019.0,0.0,MEMX,NaN,NaN
-21,America,North America,United States,Miami International Securities Exchange,Miami,2012.0,0.0,MIAX,NaN,NaN
-22,America,North America,United States,NASDAQ,New York City,1971.0,0.0,NASDAQ,NaN,NaN
-23,America,North America,United States,NASDAQ OMX BX,Boston,1834.0,0.0,BX,NaN,NaN
-24,America,North America,United States,NASDAQ OMX PHLX,Philadelphia,1790.0,0.0,PHLX,NaN,NaN
-25,America,North America,United States,New York Stock Exchange,New York City,1817.0,0.0,NYSE,NaN,NaN
-26,America,North America,United States,NYSE Arca,New York City,2006.0,0.0,NYSE Arca,NaN,NaN
-27,America,North America,United States,NYSE American ,New York City,1908.0,0.0,NYSE American,NaN,NaN
-28,America,Central America,Costa Rica,Bolsa Nacional de Valores,San Jose,1976.0,0.0,BNV,NaN,NaN
-29,America,Central America,El Salvador,Bolsa de Valores de El Salvador,San Salvador,1992.0,0.0,BVES,NaN,NaN
-30,America,Central America,Guatemala,Bolsa Nacional de Valores,Guatemala City,1987.0,0.0,BVNSA,NaN,NaN
-31,America,Central America,Honduras,Bolsa Centroamericana de Valores,Tegucigalpa,2005.0,0.0,BCV,NaN,NaN
-32,America,Central America,Honduras,Bolsa Honduras de Valores,NaN,1993.0,0.0,BHV,NaN,NaN
-33,America,Central America,Nicaragua,Bolsa de Valores de Nicaragua,Managua,1990.0,0.0,BVDN,NaN,NaN
-34,America,Central America,Panama,Bolsa de Valores de Panama,Panama City,1989.0,0.0,BVP,NaN,NaN
-35,America,South America,Argentina,Buenos Aires Stock Exchange,Buenos Aires,1854.0,0.0,BCBA,NaN,NaN
-36,America,South America,Argentina,Mercado Abierto Electronico,Buenos Aires,1988.0,0.0,MAE,NaN,NaN
-37,America,South America,Argentina,Rosario Stock Exchange,Rosario,1884.0,0.0,BCR,NaN,NaN
-38,America,South America,Bolivia,Bolsa Boliviana de Valores,La Paz,1990.0,0.0,BVB,NaN,NaN
-39,America,South America,Brazil,B3,Sao Paulo,1890.0,0.0,B3,NaN,NaN
-40,America,South America,Brazil,Rio de Janeiro Stock Exchange,Rio de Janeiro,1845.0,0.0,BVRJ,NaN,NaN
-41,America,South America,Brazil,Brazilian Mercantile and Futures Exchange,Sao Paulo,1971.0,0.0,BM&F,NaN,NaN
-42,America,South America,Brazil,Bolsa de Cereais e Mercardorias de Maringa,Maringa,1982.0,0.0,BCMM,NaN,NaN
-43,America,South America,Brazil,Bolsa de Valores Minas - Espirito Santo - Brasilia,Belo Horizonte,1976.0,0.0,BOVMESB,NaN,NaN
-44,America,South America,Chile,Santiago Stock Exchange ,Santiago,1893.0,0.0,SSE,NaN,NaN
-45,America,South America,Chile,Bolsa Electronica de Chile,Santiago,1989.0,0.0,BEC,NaN,NaN
-46,America,South America,Chile,Valparaiso Stock Exchange,Valparaiso,1898.0,0.0,BOVALPO,NaN,NaN
-47,America,South America,Colombia,Colombia Stock Exchange ,Bogota,1928.0,0.0,BVC,NaN,NaN
-48,America,South America,Ecuador,Bolsa de Valores de Guayaquil,Guayaquil,1969.0,0.0,BVG,NaN,NaN
-49,America,South America,Ecuador,Bolsa de Valores de Quito,Quito,1969.0,0.0,BVQ,NaN,NaN
-50,America,South America,Guyana,Guyana Stock Exchange,Georgetown,2003.0,0.0,GASCI,NaN,NaN
-51,America,South America,Paraguay,Bolsa de Valores de Asuncion,Asuncion,1977.0,0.0,BVA,NaN,NaN
-52,America,South America,Peru,Lima Stock Exchange ,Lima,1860.0,0.0,BVL,NaN,NaN
-53,America,South America,Suriname,Suriname Stock Exchange,Paramaribo,1994.0,0.0,SSE,NaN,NaN
-54,America,South America,Uruguay,Bolsa de Valores de Montevideo,Montevideo,1867.0,0.0,BVM,NaN,NaN
-55,America,South America,Uruguay,Bolsa Electronica de Valores de Uruguay,Montevideo,1993.0,0.0,BEVSA,NaN,NaN
-56,America,South America,Venezuela,Bolsa de Valores de Caracas,Caracas,1947.0,0.0,BVC,NaN,NaN
-57,America,Caribbean,Anguilla,NaN,ECSE,1947.0,0.0,NaN,NaN,NaN
-58,America,Caribbean,Antigua and Barbuda,NaN,ECSE,1947.0,0.0,NaN,NaN,NaN
-59,America,Caribbean,Bahamas,Bahamas Securities Exchange,Nassau,1999.0,0.0,BISX,NaN,NaN
-60,America,Caribbean,Barbados,Barbados Stock Exchange,Bridgetown,1987.0,0.0,BSE,NaN,NaN
-61,America,Caribbean,Bermuda,Bermuda Stock Exchange,Hamilton,1971.0,0.0,BSX,NaN,NaN
-62,America,Caribbean,Cayman Islands,Cayman Islands Stock Exchange,George Town,1997.0,0.0,CSX,NaN,NaN
-63,America,Caribbean,Curacao,Dutch Caribbean Securities Exchange,Willemstad,2010.0,0.0,DCSX,NaN,NaN
-64,America,Caribbean,Dominica,NaN,ECSE,2010.0,0.0,NaN,NaN,NaN
-65,America,Caribbean,Dominican Republic,Latin American International Financial Exchange,Guayacanes,2010.0,0.0,LAIFEX,NaN,NaN
-66,America,Caribbean,Dominican Republic,Bolsa de Valores de la Republica Dominicana,Santo Domingo,1991.0,0.0,BVRD,NaN,NaN
-67,America,Caribbean,Grenada,NaN,ECSE,1991.0,0.0,NaN,NaN,NaN
-68,America,Caribbean,Haiti,Haitian Stock Exchange,NaN,2007.0,0.0,HSE,NaN,NaN
-69,America,Caribbean,Jamaica,Jamaica Stock Exchange,Kingston,1968.0,0.0,JSE,NaN,NaN
-70,America,Caribbean,Montserrat,NaN,ECSE,1968.0,0.0,NaN,NaN,NaN
-71,America,Caribbean,Saint Kitts and Nevis,Eastern Caribbean Securities Exchange,Basseterre,2001.0,0.0,ECSE,NaN,NaN
-72,America,Caribbean,Saint Lucia,NaN,ECSE,2001.0,0.0,NaN,NaN,NaN
-73,America,Caribbean,Saint Vincent and the Grenadines,NaN,ECSE,2001.0,0.0,NaN,NaN,NaN
-74,America,Caribbean,Trinidad and Tobago,Trinidad and Tobago Stock Exchange,Port of Spain,1981.0,0.0,TTSE,NaN,NaN
-75,Africa,Africa,Algeria,Algiers Stock Exchange,Algiers,1997.0,5.0,SGBV,NaN,NaN
-76,Africa,Africa,Angola,Angola Debt and Stock Exchange,Luanda,2016.0,0.0,Bodiva,InfoTech Capizar,NaN
-77,Africa,Africa,Botswana,Botswana Stock Exchange,Gaborone,1989.0,44.0,BSE,NaN,NaN
-78,Africa,Africa,Cameroon,Douala Stock Exchange,Douala,2001.0,2.0,DSX,NaN,NaN
-79,Africa,Africa,Cape Verde,Bolsa de Valores de Cabo Verde,Praia,1998.0,0.0,BVC,NaN,NaN
-80,Africa,Africa,Egypt,Egyptian Exchange,Cairo,1883.0,265.0,EGX,Nasdaq,NaN
-81,Africa,Africa,Gabon,Bourse des Valeurs Mobilieres de l'Afrique Centrale,Libreville,2003.0,0.0,BVMAC,NaN,NaN
-82,Africa,Africa,Ghana,Ghana Stock Exchange,Accra,1990.0,37.0,GSE,InfoTech Capizar,NaN
-83,Africa,Africa,Ivory Coast,Bourse Regionale des Valeurs Mobilieres,Abidjan,1998.0,39.0,BRVM,NaN,NaN
-84,Africa,Africa,Kenya,Nairobi Securities Exchange,Nairobi,1954.0,64.0,NSE,NaN,NaN
-85,Africa,Africa,Lesotho,Maseru Securities Exchange,Maseru,2016.0,0.0,MSM,NaN,NaN
-86,Africa,Africa,Libya,Libyan Stock Market,Tripoli,2007.0,7.0,LSM,NaN,NaN
-87,Africa,Africa,Malawi,Malawi Stock Exchange,Blantyre,1995.0,14.0,MSE,InfoTech Capizar,NaN
-88,Africa,Africa,Mauritius,Stock Exchange of Mauritius,Port Louis,1988.0,170.0,SEM,Millenium Information Technology,NaN
-89,Africa,Africa,Morocco,Casablanca Stock Exchange,Casablanca,1929.0,81.0,Casa SE,NaN,NaN
-90,Africa,Africa,Mozambique,Bolsa de Valores de Mocambique,Maputo,1999.0,0.0,BVM,NaN,NaN
-91,Africa,Africa,Namibia,Namibian Stock Exchange,Windhoek,1992.0,47.0,NSX,NaN,NaN
-92,Africa,Africa,Nigeria,Abuja Securities and Commodities Exchange,Abuja,1998.0,0.0,ASCE,NaN,NaN
-93,Africa,Africa,Nigeria,Nigerian Exchange Group,Lagos,1960.0,223.0,NGX,Nasdaq,NaN
-94,Africa,Africa,Rwanda,Rwanda Stock Exchange,Kigali,2011.0,10.0,RSE,InfoTech Capizar,NaN
-95,Africa,Africa,Rwanda,East Africa Exchange,Kigali,2011.0,0.0,EAX,NaN,NaN
-96,Africa,Africa,Seychelles,Merj Exchange Limited,Victoria,2012.0,48.0,MERJ,NaN,NaN
-97,Africa,Africa,Somalia,Somali Stock Exchange,Mogadishu,2015.0,2.0,SSE,NaN,NaN
-98,Africa,Africa,South Africa,JSE Limited,Johannesburg,1887.0,388.0,JSE,NaN,NaN
-99,Africa,Africa,South Africa,A2X Markets,Johannesburg,2017.0,40.0,A2X,NaN,NaN
-100,Africa,Africa,South Africa,ZAR X,Johannesburg,2016.0,7.0,ZARX,NaN,NaN
-101,Africa,Africa,South Africa,Equity Express Securities Exchange,Johannesburg,2017.0,0.0,EESE,NaN,NaN
-102,Africa,Africa,South Africa,Cape Town Stock Exchange,Cape Town,2017.0,9.0,CTSE,NaN,NaN
-103,Africa,Africa,Sudan,Khartoum Stock Exchange,Khartoum,1994.0,54.0,KSE,NaN,NaN
-104,Africa,Africa,Eswatini,Eswatini Stock Exchange,Mbabane,1990.0,10.0,ESE,NaN,NaN
-105,Africa,Africa,Tanzania,Dar es Salaam Stock Exchange,Dar es Salaam,1998.0,25.0,DSE,NaN,NaN
-106,Africa,Africa,Tunisia,Bourse de Tunis,Tunis,1969.0,56.0,BVMT,NaN,NaN
-107,Africa,Africa,Uganda,Uganda Securities Exchange,Kampala,1997.0,17.0,USE,NaN,NaN
-108,Africa,Africa,Uganda,ALTX East Africa Exchange,Kampala,2013.0,3.0,ALTX,NaN,NaN
-109,Africa,Africa,Zambia,Agricultural Commodities Exchange of Zambia,Lusaka,2007.0,0.0,ZAMACE,NaN,NaN
-110,Africa,Africa,Zambia,Lusaka Stock Exchange,Lusaka,1994.0,24.0,LuSE,NaN,NaN
-111,Africa,Africa,Zambia,Africa Digital Stock Exchange Ltd,Zambia,2018.0,5.0,ADSEL,NaN,NaN
-112,Africa,Africa,Zimbabwe,Zimbabwe Stock Exchange,Harare,1948.0,64.0,ZSE,InfoTech Capizar,NaN
-113,Africa,Africa,Zimbabwe,Victoria Falls Stock Exchange,Victoria Falls,2020.0,2.0,VFEX,InfoTech Capizar,NaN
-114,Africa,Africa,Zimbabwe,Finsec,Harare,2019.0,1.0,FINSEC,NaN,NaN
-115,Europe,Europe,Pan-European,Euronext,Brussels,1602.0,1300.0,NaN,OPTIQ,NaN
-116,Europe,Europe,Pan-European,Nasdaq Nordic,Copenhagen,1620.0,0.0,NaN,Genium,NaN
-117,Europe,Europe,Albania,Tirana Stock Exchange,Tirana,1996.0,4.0,NaN,NaN,XTIR
-118,Europe,Europe,Armenia,Armenia Securities Exchange,Yerevan,2001.0,0.0,NaN,NaN,AMX
-119,Europe,Europe,Austria,Wiener Borse,Vienna,1771.0,63.0,NaN,NaN,XWBO
-120,Europe,Europe,Azerbaijan,Baku Stock Exchange,Baku,2000.0,27.0,NaN,NaN,BSE
-121,Europe,Europe,Belarus,Belarusian Currency and Stock Exchange,Minsk,1998.0,0.0,NaN,NaN,BCSE
-122,Europe,Europe,Bosnia and Herzegovina,Sarajevo Stock Exchange,Sarajevo,2001.0,0.0,NaN,NaN,XSSE
-123,Europe,Europe,Bosnia and Herzegovina,Banja Luka Stock Exchange,Banja Luka,2001.0,0.0,NaN,NaN,XBLB
-124,Europe,Europe,Bulgaria,Bulgarian Stock Exchange,Sofia,1914.0,0.0,NaN,NaN,XBUL
-125,Europe,Europe,Channel Islands,The International Stock Exchange,Guernsey,2013.0,2000.0,NaN,NaN,XCIE
-126,Europe,Europe,Croatia,Zagreb Stock Exchange,Zagreb,1907.0,45.0,NaN,Xetra,XZAG
-127,Europe,Europe,Cyprus,Cyprus Stock Exchange,Nicosia,1996.0,0.0,NaN,NaN,XCYS
-128,Europe,Europe,Czech Republic,Prague Stock Exchange,Prague,1871.0,29.0,NaN,NaN,XPRA
-129,Europe,Europe,Faroe Islands,Faroese Securities Market,Torshavn,2004.0,0.0,NaN,NaN,VMFX
-130,Europe,Europe,Georgia,Georgian Stock Exchange,Tbilisi,1999.0,261.0,NaN,NaN,XGSE
-131,Europe,Europe,Germany,Berliner Borse,Berlin,1685.0,0.0,NaN,NaN,XBER
-132,Europe,Europe,Germany,Borse Dusseldorf,Dusseldorf,1685.0,0.0,NaN,NaN,XDUS
-133,Europe,Europe,Germany,Hamburg Stock Exchange,Hamburg/Hanover,1558.0,0.0,NaN,NaN,XHAM
-134,Europe,Europe,Germany,Borse Munchen,Munchen,1830.0,0.0,NaN,NaN,XMUN
-135,Europe,Europe,Germany,Borse Stuttgart,Stuttgart,1861.0,0.0,NaN,Xitaro,XSTU
-136,Europe,Europe,Germany,Frankfurt Stock Exchange,Frankfurt,1585.0,492.0,NaN,NaN,XFRA
-137,Europe,Europe,Gibraltar,Gibraltar Stock Exchange,Gibraltar,2014.0,0.0,NaN,NaN,GSXL
-138,Europe,Europe,Greece,Athens Stock Exchange,Athens,1876.0,251.0,NaN,NaN,XATH
-139,Europe,Europe,Hungary,Budapest Stock Exchange,Budapest,1864.0,61.0,NaN,Xetra,XBUD
-140,Europe,Europe,Kazakhstan,Kazakhstan Stock Exchange,Almaty,1993.0,0.0,NaN,NaN,XKAZ
-141,Europe,Europe,Kazakhstan,Astana International Exchange,Astana,1993.0,0.0,NaN,Nasdaq,NaN
-142,Europe,Europe,Luxembourg,Luxembourg Stock Exchange,Luxembourg ,1927.0,0.0,NaN,OPTIQ,XLUX
-143,Europe,Europe,Malta,Malta Stock Exchange,Valletta,1992.0,0.0,NaN,NaN,XMAL
-144,Europe,Europe,Moldova,Moldova Stock Exchange,Chisinau,1994.0,0.0,NaN,NaN,XMOL
-145,Europe,Europe,Montenegro,Montenegro Stock Exchange,Podgorica,1993.0,0.0,NaN,NaN,XMNX
-146,Europe,Europe,Netherlands,Nxchange,Amsterdam,2015.0,8.0,NaN,NaN,XNXC
-147,Europe,Europe,Netherlands,NPEX,The Hague,2009.0,0.0,NaN,NaN,NPEX
-148,Europe,Europe,North Macedonia,Macedonian Stock Exchange,Skopje,1995.0,0.0,NaN,NaN,XMAE
-149,Europe,Europe,Poland,Warsaw Stock Exchange,Warsaw,1817.0,449.0,NaN,UTP,XWAR
-150,Europe,Europe,Romania,Bucharest Stock Exchange,Bucharest,1882.0,83.0,NaN,NaN,XBSE
-151,Europe,Europe,Russia,Moscow Exchange,Moscow,2013.0,0.0,NaN,NaN,MISX
-152,Europe,Europe,Russia,Saint Petersburg Stock Exchange,Saint Petersburg,1997.0,0.0,NaN,NaN,SPIM
-153,Europe,Europe,Serbia,Belgrade Stock Exchange,Belgrade,1894.0,66.0,NaN,NaN,XBEL
-154,Europe,Europe,Slovakia,Bratislava Stock Exchange,Bratislava,1991.0,0.0,NaN,NaN,XBRA
-155,Europe,Europe,Slovenia,Ljubljana Stock Exchange,Ljubljana,1989.0,61.0,NaN,NaN,XLJU
-156,Europe,Europe,Spain,Bolsa de Valores de Barcelona,Barcelona,1915.0,0.0,NaN,NaN,BMEX
-157,Europe,Europe,Spain,Bolsa de Valores de Bilbao,Bilbao,1890.0,0.0,NaN,NaN,BMEX
-158,Europe,Europe,Spain,Bolsa de Madrid,Madrid,1831.0,0.0,NaN,NaN,BMEX
-159,Europe,Europe,Spain,Mercado Oficial Espanol de Futuros y Opciones,Madrid,1989.0,0.0,NaN,NaN,BMEX
-160,Europe,Europe,Spain,Bolsa de Valores de Valencia,Valencia,1981.0,0.0,NaN,NaN,BMEX
-161,Europe,Europe,Sweden,Nasdaq First North Growth Market,Stockholm,2008.0,288.0,NaN,NaN,FNSE
-162,Europe,Europe,Sweden,NGM Main Regulated,Stockholm,2003.0,10.0,NaN,Elasticia,XNGM
-163,Europe,Europe,Sweden,NGM Nordic SME,Stockholm,2003.0,83.0,NaN,Elasticia,NSME
-164,Europe,Europe,Sweden,Spotlight Stock Market,Stockholm,1997.0,0.0,NaN,Elasticia,XSAT
-165,Europe,Europe,Switzerland,SIX Swiss Exchange,Zurich,1850.0,266.0,NaN,NaN,XSWX
-166,Europe,Europe,Switzerland,BX Swiss,Zurich,1888.0,18.0,NaN,Elasticia,XBRN
-167,Europe,Europe,Turkey,Borsa Istanbul,Istanbul,1866.0,417.0,NaN,NaN,XIST
-168,Europe,Europe,Ukraine,PFTS Ukraine Stock Exchange,Kyiv,2002.0,0.0,NaN,NaN,PFTS
-169,Europe,Europe,Ukraine,Ukrainian Exchange,Kyiv,2008.0,88.0,NaN,NaN,XUAX
-170,Europe,Europe,United Kingdom,London Stock Exchange,London,1571.0,2800.0,NaN,Millennium,XLON
-171,Australia,Oceania,Australia,APTEX,Sydney,2008.0,0.0,NaN,NaN,NaN
-172,Australia,Oceania,Australia,Sydney Stock Exchange ,Melbourne,1997.0,0.0,NaN,Nasdaq X-stream,APXL
-173,Australia,Oceania,Australia,Australian Securities Exchange,Sydney,1987.0,0.0,ASX,Nasdaq Genium INET,XASX
-174,Australia,Oceania,Australia,Chi-X Australia,Melbourne,2008.0,0.0,CXA,NaN,CHIA
-175,Australia,Oceania,Australia,National Stock Exchange of Australia,Sydney,1937.0,0.0,NSX,Nasdaq X-stream,XNEC
-176,Australia,Oceania,Fiji,South Pacific Stock Exchange,Suva,1971.0,0.0,SPX,NaN,XSPS
-177,Australia,Oceania,New Zealand,New Zealand Exchange,Wellington,2002.0,0.0,NZX,Nasdaq X-stream ,XNZE
-178,Australia,Oceania,Papua New Guinea,PNGX Markets Limited,Port Moresby,1999.0,0.0,PNGX,Nasdaq Matching Engine,XPOM
-179,Asia,Central_Asia,Kazakhstan,Kazakhstan Stock Exchange,Almaty,1993.0,127.0,KASE,NaN,NaN
-180,Asia,Central_Asia,Kazakhstan,Astana International Exchange,Nur-Sultan,2018.0,25.0,AIX,Nasdaq Matching Engine,AIXK
-181,Asia,Central_Asia,Kyrgyzstan,Kyrgyz Stock Exchange ,Bishkek,1994.0,0.0,KSE,NaN,NaN
-182,Asia,Central_Asia,Tajikistan,Central Asian Stock Exchange,Dushanbe,2015.0,0.0,CASE,NaN,NaN
-183,Asia,Central_Asia,Turkmenistan,State Commodity and Raw Material Exchange of Turkmenistan,Ashgabat,1994.0,0.0,SRCMET,NaN,NaN
-184,Asia,Central_Asia,Uzbekistan,Tashkent Stock Exchange,Tashkent,1994.0,104.0,UZSE,NaN,NaN
-185,Asia,Eastern_Asia,China,Beijing Stock Exchange,Beijing,2021.0,88.0,BSE,NaN,NaN
-186,Asia,Eastern_Asia,China,Dalian Commodity Exchange,Dalian,1993.0,0.0,DCE,NaN,NaN
-187,Asia,Eastern_Asia,China,China Financial Futures Exchange,Shanghai,2006.0,0.0,CFFEX,NaN,NaN
-188,Asia,Eastern_Asia,China,Shanghai Futures Exchange,Shanghai,1999.0,0.0,SHFE,NaN,NaN
-189,Asia,Eastern_Asia,China,Shanghai Metal Exchange,Shanghai,1992.0,0.0,SHME,NaN,NaN
-190,Asia,Eastern_Asia,China,Shanghai Stock Exchange,Shanghai,1990.0,2061.0,SSE,NaN,NaN
-191,Asia,Eastern_Asia,China,Shenzhen Stock Exchange,Shenzhen,1991.0,2607.0,SZSE,NaN,NaN
-192,Asia,Eastern_Asia,China,Zhengzhou Commodity Exchange,Zhengzhou,1990.0,0.0,ZCE,NaN,NaN
-193,Asia,Eastern_Asia,Hong Kong,Hong Kong Stock Exchange,Hong Kong,1891.0,2538.0,SEHK,NaN,NaN
-194,Asia,Eastern_Asia,Hong Kong,Hong Kong Exchanges and Clearing,Hong Kong,2000.0,0.0,HKEx,NaN,NaN
-195,Asia,Eastern_Asia,Japan,Tokyo Stock Exchange,Tokyo,1878.0,1838.0,JPX,NaN,NaN
-196,Asia,Eastern_Asia,Japan,JASDAQ,Tokyo,1963.0,658.0,JPX,NaN,NaN
-197,Asia,Eastern_Asia,Japan,JASDAQ NEO,Tokyo,2007.0,2010.0,NaN,NaN,NaN
-198,Asia,Eastern_Asia,Japan,Mothers,Tokyo,1999.0,424.0,JPX,NaN,NaN
-199,Asia,Eastern_Asia,Japan,Tokyo Pro Market ,Tokyo,2009.0,56.0,JPX,NaN,NaN
-200,Asia,Eastern_Asia,Japan,Osaka Exchange ,Osaka,1878.0,16.0,JPX,NaN,NaN
-201,Asia,Eastern_Asia,Japan,Hercules ,Osaka,2000.0,2010.0, Hercules,NaN,NaN
-202,Asia,Eastern_Asia,Japan,Nagoya Stock Exchange,Nagoya,1886.0,182.0,NSE,NaN,NaN
-203,Asia,Eastern_Asia,Japan,Centrex,Nagoya,1999.0,14.0,Centrex,NaN,NaN
-204,Asia,Eastern_Asia,Japan,Fukuoka Stock Exchange,Fukuoka,1949.0,0.0,FSE,NaN,NaN
-205,Asia,Eastern_Asia,Japan,Q-Board,Fukuoka,2000.0,0.0,QB,NaN,NaN
-206,Asia,Eastern_Asia,Japan,Sapporo Securities Exchange,Sapporo,1949.0,0.0,SSE,NaN,NaN
-207,Asia,Eastern_Asia,Japan,Ambitious,Sapporo,2000.0,0.0,AMB,NaN,NaN
-208,Asia,Eastern_Asia,Macau,Macao Financial Asset Exchange,Macau,2018.0,0.0,MOX,NaN,NaN
-209,Asia,Eastern_Asia,Mongolia,Mongolian Stock Exchange,Ulaanbaatar,1991.0,0.0,MSE,NaN,NaN
-210,Asia,Eastern_Asia,Mongolia,Ulaanbaatar Securities Exchange,Ulaanbaatar,2016.0,0.0,NaN,NaN,NaN
-211,Asia,Eastern_Asia,South Korea,Chosun Stock Exchange,Seoul,1943.0,11.0,NaN,NaN,NaN
-212,Asia,Eastern_Asia,South Korea,Korea Exchange,Busan,2005.0,2354.0,KRX,NaN,NaN
-213,Asia,Eastern_Asia,South Korea,Korea Stock Exchange,Seoul,1956.0,1.0,NaN,NaN,NaN
-214,Asia,Eastern_Asia,South Korea,KOSDAQ,Seoul,1996.0,1411.0,KOSDAQ,NaN,NaN
-215,Asia,Eastern_Asia,Taiwan,Taiwan Stock Exchange,Taipei,1961.0,898.0,TWSE,NaN,NaN
-216,Asia,Eastern_Asia,Taiwan,Taipei Exchange,Taipei,1994.0,0.0,TPEx,NaN,NaN
-217,Asia,Eastern_Asia,Taiwan,Taiwan Futures Exchange,Taipei,1998.0,0.0,TAIFEX,NaN,NaN
-218,Asia,Northern_Asia,Russia,Moscow Exchange ,Moscow,2011.0,219.0,MOEX,NaN,NaN
-219,Asia,Southeast_Asia,ASEAN,ASEAN Exchanges,NaN,2012.0,0.0,NaN,NaN,NaN
-220,Asia,Southeast_Asia,Cambodia,Cambodia Securities Exchange,Phnom Penh,2011.0,0.0,CSX,NaN,NaN
-221,Asia,Southeast_Asia,Indonesia,Indonesia Stock Exchange,Jakarta,1912.0,777.0,IDX,NaN,NaN
-222,Asia,Southeast_Asia,Indonesia,Jakarta Futures Exchange,Jakarta,1999.0,0.0,JFX,NaN,NaN
-223,Asia,Southeast_Asia,Indonesia,Indonesia Commodity and Derivatives Exchange,Jakarta,2009.0,0.0,ICDX,NaN,NaN
-224,Asia,Southeast_Asia,Laos,Lao Securities Exchange,Vientiane,2011.0,11.0,LSX,NaN,NaN
-225,Asia,Southeast_Asia,Malaysia,Bursa Malaysia,Kuala Lumpur,1964.0,801.0,MYX,NaN,NaN
-226,Asia,Southeast_Asia,Malaysia,Malaysia Derivatives Exchange,Kuala Lumpur,1980.0,0.0,NaN,NaN,NaN
-227,Asia,Southeast_Asia,Malaysia,MESDAQ,Kuala Lumpur,1997.0,0.0,NaN,NaN,NaN
-228,Asia,Southeast_Asia,Malaysia,FUSANG Exchange,Labuan,2015.0,0.0,FSC,NaN,NaN
-229,Asia,Southeast_Asia,Myanmar,Myanmar Securities Exchange Centre,Yangon,1996.0,0.0,MSEC,NaN,NaN
-230,Asia,Southeast_Asia,Myanmar,Yangon Stock Exchange,Yangon,2015.0,0.0,YSX,NaN,NaN
-231,Asia,Southeast_Asia,Philippines,Philippine Dealing Exchange,Metro Manila,2005.0,0.0,PDEx,NaN,NaN
-232,Asia,Southeast_Asia,Philippines,Philippine Stock Exchange,Metro Manila,1927.0,329.0,PSE,NaN,NaN
-233,Asia,Southeast_Asia,Philippines,Manila Commodity Exchange,Metro Manila,2011.0,0.0,MCX,NaN,NaN
-234,Asia,Southeast_Asia,Singapore,Singapore Exchange,Singapore,1999.0,776.0,SGX,NaN,NaN
-235,Asia,Southeast_Asia,Thailand,Stock Exchange of Thailand,Bangkok,1975.0,612.0,SET,NaN,NaN
-236,Asia,Southeast_Asia,Thailand,Market for Alternative Investment,Bangkok,1999.0,198.0,MAI,NaN,NaN
-237,Asia,Southeast_Asia,Thailand,Bond Electronic Exchange,Bangkok,2003.0,0.0,BEX,NaN,NaN
-238,Asia,Southeast_Asia,Thailand,AFET,Bangkok,2004.0,0.0,AFEX,NaN,NaN
-239,Asia,Southeast_Asia,Thailand,Thailand Futures Exchange,Bangkok,2005.0,0.0,TFEX,NaN,NaN
-240,Asia,Southeast_Asia,Vietnam,Ho Chi Minh Stock Exchange,Ho Chi Minh City,2000.0,396.0,HSX,NaN,NaN
-241,Asia,Southeast_Asia,Vietnam,Hanoi Securities Trading Center,Hanoi,2005.0,0.0,HNX,NaN,NaN
-242,Asia,Southern_Asia,Afghanistan,Afghanistan Stock Exchange,Kabul,2009.0,0.0,AFX,NaN,NaN
-243,Asia,Southern_Asia,Bangladesh,Chittagong Stock Exchange,Chittagong,1995.0,293.0,CSE,NaN,NaN
-244,Asia,Southern_Asia,Bangladesh,Dhaka Stock Exchange,Dhaka,1954.0,750.0,DSE,Nasdaq X-stream INET,NaN
-245,Asia,Southern_Asia,Bhutan,Royal Securities Exchange of Bhutan,Thimphu,1993.0,20.0,RSEBL,NaN,NaN
-246,Asia,Southern_Asia,India,Bombay Stock Exchange,Mumbai,1875.0,5034.0,BSE,NaN,NaN
-247,Asia,Southern_Asia,India,India International Exchange,GIFT City,2017.0,0.0,INX,NaN,NaN
-248,Asia,Southern_Asia,India,Indian Commodity Exchange,Navi Mumbai,2017.0,0.0,ICEX,NaN,NaN
-249,Asia,Southern_Asia,India,Multi Commodity Exchange,Mumbai,2008.0,0.0,MCX,NaN,NaN
-250,Asia,Southern_Asia,India,National Commodity and Derivatives Exchange,Mumbai,2003.0,0.0,NCDEX,NaN,NaN
-251,Asia,Southern_Asia,India,National Stock Exchange of India,Mumbai,1992.0,1300.0,NSE,NaN,NaN
-252,Asia,Southern_Asia,Iran,Tehran Stock Exchange,Tehran,1967.0,666.0,TSE,NaN,NaN
-253,Asia,Southern_Asia,Iran,Iran Fara Bourse,Tehran,2008.0,547.0,IFB,NaN,NaN
-254,Asia,Southern_Asia,Iran,Iran Mercantile Exchange,Tehran,2006.0,0.0,IME,NaN,NaN
-255,Asia,Southern_Asia,Iran,Iranian Energy Exchange,Tehran,2008.0,0.0,IRENEX,NaN,NaN
-256,Asia,Southern_Asia,Maldives,Maldives Stock Exchange,Male,2002.0,10.0,MSE,NaN,NaN
-257,Asia,Southern_Asia,Nepal,Nepal Stock Exchange,Kathmandu,1993.0,333.0,NEPSE,NaN,NaN
-258,Asia,Southern_Asia,Pakistan,Pakistan Stock Exchange,Karachi,2016.0,540.0,PSX,NaN,NaN
-259,Asia,Southern_Asia,Sri Lanka,Colombo Stock Exchange,Colombo,1896.0,296.0,CSE,NaN,NaN
-260,Asia,Western_Asia,Bahrain,Bahrain Stock Exchange,Manama,1987.0,0.0,BSE,Nasdaq X-stream,NaN
-261,Asia,Western_Asia,Iraq,Iraq Stock Exchange,Baghdad,2004.0,0.0,ISX,Nasdaq,NaN
-262,Asia,Western_Asia,Israel,Tel Aviv Stock Exchange,Tel Aviv,1953.0,473.0,TASE,NaN,NaN
-263,Asia,Western_Asia,Jordan,Amman Stock Exchange,Amman,1999.0,0.0,ASE,NaN,NaN
-264,Asia,Western_Asia,Kuwait,Boursa Kuwait,Safat,1977.0,0.0,BK,Nasdaq X-stream,NaN
-265,Asia,Western_Asia,Lebanon,Beirut Stock Exchange,Beirut,1920.0,0.0,BSE,NaN,NaN
-266,Asia,Western_Asia,Oman,Muscat Securities Market,Muscat,1988.0,0.0,MSM,NaN,NaN
-267,Asia,Western_Asia,Palestine,Palestine Securities Exchange,Nablus,1995.0,0.0,PSE,Nasdaq ,NaN
-268,Asia,Western_Asia,Qatar,Doha Securities Market,Doha,1997.0,0.0,DSM,NYSE Euronext Universal Trading Platform,NaN
-269,Asia,Western_Asia,Saudi Arabia,Tadawul,Riyadh,2007.0,202.0,Tadawul,Nasdaq X-stream INET,NaN
-270,Asia,Western_Asia,Syria,Damascus Securities Exchange,Damascus,2009.0,24.0,DSE,NaN,NaN
-271,Asia,Western_Asia,United Arab Emirates,Abu Dhabi Securities Market,Abu Dhabi,2000.0,73.0,ADSM,NaN,NaN
-272,Asia,Western_Asia,United Arab Emirates,Dubai Financial Market,Dubai,2000.0,178.0,DFM,Nasdaq Matching Engine,NaN
-273,Asia,Western_Asia,United Arab Emirates,NASDAQ Dubai,Dubai,2005.0,0.0,NASDAQ Dubai,NaN,NaN
-274,Asia,Western_Asia,United Arab Emirates,Dubai Gold & Commodities Exchange,Dubai,2005.0,0.0,DGCX,Cinnober TRADExpress,NaN
+,Continent,Region,Country,Exchange,Location,Founded,Listings,Link
+0,America,North America,Canada,Canadian Securities Exchange,Toronto,2004.0,0.0,CSE
+1,America,North America,Canada,Montreal Exchange,Montreal,1872.0,0.0,MX
+2,America,North America,Canada,NASDAQ Canada,New York City,2000.0,0.0,Nasdaq Canada
+3,America,North America,Canada,Toronto Stock Exchange,Toronto,1861.0,0.0,TSX
+4,America,North America,Canada,TSX Venture Exchange,Calgary,2001.0,0.0,TSX
+5,America,North America,Canada,NEO Exchange,Toronto,2015.0,0.0,Aequitas Neo
+6,America,North America,Mexico,Bolsa Mexicana de Valores,Mexico City,1886.0,0.0,BMV
+7,America,North America,Mexico,BIVA ,Mexico City,2017.0,0.0,BIVA
+8,America,North America,United States,BATS Global Markets,Lenexa,2005.0,0.0,BATS
+9,America,North America,United States,BZX Exchange,Chicago,2005.0,0.0,Cboe US Equities
+10,America,North America,United States,BYX Exchange,Chicago,2005.0,0.0,Cboe US Equities
+11,America,North America,United States,Boston Options Exchange,Boston,2002.0,0.0,BOX
+12,America,North America,United States,C2 Options Exchange,Chicago,2010.0,0.0,C2
+13,America,North America,United States,Chicago Board Options Exchange,Chicago,1973.0,0.0,CBOE
+14,America,North America,United States,CBOE Stock Exchange,Chicago,1973.0,0.0,CBOE
+15,America,North America,United States,Chicago Stock Exchange,Chicago,1882.0,0.0,CHX
+16,America,North America,United States,EDGA and EDGX,Chicago,1998.0,0.0,Cboe US Equities
+17,America,North America,United States,IEX,New York City,2012.0,0.0,IEX
+18,America,North America,United States,ISE and ISE Gemini,New York City,2000.0,0.0,ISE
+19,America,North America,United States,Long Term Stock Exchange,New York City,2019.0,0.0,LTSE
+20,America,North America,United States,Members Exchange ,Jersey City,2019.0,0.0,MEMX
+21,America,North America,United States,Miami International Securities Exchange,Miami,2012.0,0.0,MIAX
+22,America,North America,United States,NASDAQ,New York City,1971.0,0.0,NASDAQ
+23,America,North America,United States,NASDAQ OMX BX,Boston,1834.0,0.0,BX
+24,America,North America,United States,NASDAQ OMX PHLX,Philadelphia,1790.0,0.0,PHLX
+25,America,North America,United States,New York Stock Exchange,New York City,1817.0,0.0,NYSE
+26,America,North America,United States,NYSE Arca,New York City,2006.0,0.0,NYSE Arca
+27,America,North America,United States,NYSE American ,New York City,1908.0,0.0,NYSE American
+28,America,Central America,Costa Rica,Bolsa Nacional de Valores,San Jose,1976.0,0.0,BNV
+29,America,Central America,El Salvador,Bolsa de Valores de El Salvador,San Salvador,1992.0,0.0,BVES
+30,America,Central America,Guatemala,Bolsa Nacional de Valores,Guatemala City,1987.0,0.0,BVNSA
+31,America,Central America,Honduras,Bolsa Centroamericana de Valores,Tegucigalpa,2005.0,0.0,BCV
+32,America,Central America,Honduras,Bolsa Honduras de Valores,Nan,1993.0,0.0,BHV
+33,America,Central America,Nicaragua,Bolsa de Valores de Nicaragua,Managua,1990.0,0.0,BVDN
+34,America,Central America,Panama,Bolsa de Valores de Panama,Panama City,1989.0,0.0,BVP
+35,America,South America,Argentina,Buenos Aires Stock Exchange,Buenos Aires,1854.0,0.0,BCBA
+36,America,South America,Argentina,Mercado Abierto Electronico,Buenos Aires,1988.0,0.0,MAE
+37,America,South America,Argentina,Rosario Stock Exchange,Rosario,1884.0,0.0,BCR
+38,America,South America,Bolivia,Bolsa Boliviana de Valores,La Paz,1990.0,0.0,BVB
+39,America,South America,Brazil,B3,Sao Paulo,1890.0,0.0,B3
+40,America,South America,Brazil,Rio de Janeiro Stock Exchange,Rio de Janeiro,1845.0,0.0,BVRJ
+41,America,South America,Brazil,Brazilian Mercantile and Futures Exchange,Sao Paulo,1971.0,0.0,BM&F
+42,America,South America,Brazil,Bolsa de Cereais e Mercardorias de Maringa,Maringa,1982.0,0.0,BCMM
+43,America,South America,Brazil,Bolsa de Valores Minas ,Belo Horizonte,1976.0,0.0,BOVMESB
+44,America,South America,Chile,Santiago Stock Exchange ,Santiago,1893.0,0.0,SSE
+45,America,South America,Chile,Bolsa Electronica de Chile,Santiago,1989.0,0.0,BEC
+46,America,South America,Chile,Valparaiso Stock Exchange,Valparaiso,1898.0,0.0,BOVALPO
+47,America,South America,Colombia,Colombia Stock Exchange ,Bogota,1928.0,0.0,BVC
+48,America,South America,Ecuador,Bolsa de Valores de Guayaquil,Guayaquil,1969.0,0.0,BVG
+49,America,South America,Ecuador,Bolsa de Valores de Quito,Quito,1969.0,0.0,BVQ
+50,America,South America,Guyana,Guyana Stock Exchange,Georgetown,2003.0,0.0,GASCI
+51,America,South America,Paraguay,Bolsa de Valores de Asuncion,Asuncion,1977.0,0.0,BVA
+52,America,South America,Peru,Lima Stock Exchange ,Lima,1860.0,0.0,BVL
+53,America,South America,Suriname,Suriname Stock Exchange,Paramaribo,1994.0,0.0,SSE
+54,America,South America,Uruguay,Bolsa de Valores de Montevideo,Montevideo,1867.0,0.0,BVM
+55,America,South America,Uruguay,Bolsa Electronica de Valores de Uruguay,Montevideo,1993.0,0.0,BEVSA
+56,America,South America,Venezuela,Bolsa de Valores de Caracas,Caracas,1947.0,0.0,BVC
+57,America,Caribbean,Anguilla,Nan,ECSE,1947.0,0.0,Nan
+58,America,Caribbean,Antigua and Barbuda,Nan,ECSE,1947.0,0.0,Nan
+59,America,Caribbean,Bahamas,Bahamas Securities Exchange,Nassau,1999.0,0.0,BISX
+60,America,Caribbean,Barbados,Barbados Stock Exchange,Bridgetown,1987.0,0.0,BSE
+61,America,Caribbean,Bermuda,Bermuda Stock Exchange,Hamilton,1971.0,0.0,BSX
+62,America,Caribbean,Cayman Islands,Cayman Islands Stock Exchange,George Town,1997.0,0.0,CSX
+63,America,Caribbean,Curacao,Dutch Caribbean Securities Exchange,Willemstad,2010.0,0.0,DCSX
+64,America,Caribbean,Dominica,Nan,ECSE,2010.0,0.0,Nan
+65,America,Caribbean,Dominican Republic,Latin American International Financial Exchange,Guayacanes,2010.0,0.0,LAIFEX
+66,America,Caribbean,Dominican Republic,Bolsa de Valores de la Republica Dominicana,Santo Domingo,1991.0,0.0,BVRD
+67,America,Caribbean,Grenada,Nan,ECSE,1991.0,0.0,Nan
+68,America,Caribbean,Haiti,Haitian Stock Exchange,Nan,2007.0,0.0,HSE
+69,America,Caribbean,Jamaica,Jamaica Stock Exchange,Kingston,1968.0,0.0,JSE
+70,America,Caribbean,Montserrat,Nan,ECSE,1968.0,0.0,Nan
+71,America,Caribbean,Saint Kitts and Nevis,Eastern Caribbean Securities Exchange,Basseterre,2001.0,0.0,ECSE
+72,America,Caribbean,Saint Lucia,Nan,ECSE,2001.0,0.0,Nan
+73,America,Caribbean,Saint Vincent and the Grenadines,Nan,ECSE,2001.0,0.0,Nan
+74,America,Caribbean,Trinidad and Tobago,Trinidad and Tobago Stock Exchange,Port of Spain,1981.0,0.0,TTSE
+75,Africa,Africa,Algeria,Algiers Stock Exchange,Algiers,1997.0,5.0,SGBV
+76,Africa,Africa,Angola,Angola Debt and Stock Exchange,Luanda,2016.0,0.0,Bodiva
+77,Africa,Africa,Botswana,Botswana Stock Exchange,Gaborone,1989.0,44.0,BSE
+78,Africa,Africa,Cameroon,Douala Stock Exchange,Douala,2001.0,2.0,DSX
+79,Africa,Africa,Cape Verde,Bolsa de Valores de Cabo Verde,Praia,1998.0,0.0,BVC
+80,Africa,Africa,Egypt,Egyptian Exchange,Cairo,1883.0,265.0,EGX
+81,Africa,Africa,Gabon,Bourse des Valeurs Mobilieres de l'Afrique Centrale,Libreville,2003.0,0.0,BVMAC
+82,Africa,Africa,Ghana,Ghana Stock Exchange,Accra,1990.0,37.0,GSE
+83,Africa,Africa,Ivory Coast,Bourse Regionale des Valeurs Mobilieres,Abidjan,1998.0,39.0,BRVM
+84,Africa,Africa,Kenya,Nairobi Securities Exchange,Nairobi,1954.0,64.0,NSE
+85,Africa,Africa,Lesotho,Maseru Securities Exchange,Maseru,2016.0,0.0,MSM
+86,Africa,Africa,Libya,Libyan Stock Market,Tripoli,2007.0,7.0,LSM
+87,Africa,Africa,Malawi,Malawi Stock Exchange,Blantyre,1995.0,14.0,MSE
+88,Africa,Africa,Mauritius,Stock Exchange of Mauritius,Port Louis,1988.0,170.0,SEM
+89,Africa,Africa,Morocco,Casablanca Stock Exchange,Casablanca,1929.0,81.0,Casa SE
+90,Africa,Africa,Mozambique,Bolsa de Valores de Mocambique,Maputo,1999.0,0.0,BVM
+91,Africa,Africa,Namibia,Namibian Stock Exchange,Windhoek,1992.0,47.0,NSX
+92,Africa,Africa,Nigeria,Abuja Securities and Commodities Exchange,Abuja,1998.0,0.0,ASCE
+93,Africa,Africa,Nigeria,Nigerian Exchange Group,Lagos,1960.0,223.0,NGX
+94,Africa,Africa,Rwanda,Rwanda Stock Exchange,Kigali,2011.0,10.0,RSE
+95,Africa,Africa,Rwanda,East Africa Exchange,Kigali,2011.0,0.0,EAX
+96,Africa,Africa,Seychelles,Merj Exchange Limited,Victoria,2012.0,48.0,MERJ
+97,Africa,Africa,Somalia,Somali Stock Exchange,Mogadishu,2015.0,2.0,SSE
+98,Africa,Africa,South Africa,JSE Limited,Johannesburg,1887.0,388.0,JSE
+99,Africa,Africa,South Africa,A2X Markets,Johannesburg,2017.0,40.0,A2X
+100,Africa,Africa,South Africa,ZAR X,Johannesburg,2016.0,7.0,ZARX
+101,Africa,Africa,South Africa,Equity Express Securities Exchange,Johannesburg,2017.0,0.0,EESE
+102,Africa,Africa,South Africa,Cape Town Stock Exchange,Cape Town,2017.0,9.0,CTSE
+103,Africa,Africa,Sudan,Khartoum Stock Exchange,Khartoum,1994.0,54.0,KSE
+104,Africa,Africa,Eswatini,Eswatini Stock Exchange,Mbabane,1990.0,10.0,ESE
+105,Africa,Africa,Tanzania,Dar es Salaam Stock Exchange,Dar es Salaam,1998.0,25.0,DSE
+106,Africa,Africa,Tunisia,Bourse de Tunis,Tunis,1969.0,56.0,BVMT
+107,Africa,Africa,Uganda,Uganda Securities Exchange,Kampala,1997.0,17.0,USE
+108,Africa,Africa,Uganda,ALTX East Africa Exchange,Kampala,2013.0,3.0,ALTX
+109,Africa,Africa,Zambia,Agricultural Commodities Exchange of Zambia,Lusaka,2007.0,0.0,ZAMACE
+110,Africa,Africa,Zambia,Lusaka Stock Exchange,Lusaka,1994.0,24.0,LuSE
+111,Africa,Africa,Zambia,Africa Digital Stock Exchange Ltd,Zambia,2018.0,5.0,ADSEL
+112,Africa,Africa,Zimbabwe,Zimbabwe Stock Exchange,Harare,1948.0,64.0,ZSE
+113,Africa,Africa,Zimbabwe,Victoria Falls Stock Exchange,Victoria Falls,2020.0,2.0,VFEX
+114,Africa,Africa,Zimbabwe,Finsec,Harare,2019.0,1.0,FINSEC
+115,Europe,Europe,Pan-European,Euronext,Brussels,1602.0,1300.0,Nan
+116,Europe,Europe,Pan-European,Nasdaq Nordic,Copenhagen,1620.0,0.0,Nan
+117,Europe,Europe,Albania,Tirana Stock Exchange,Tirana,1996.0,4.0,Nan
+118,Europe,Europe,Armenia,Armenia Securities Exchange,Yerevan,2001.0,0.0,Nan
+119,Europe,Europe,Austria,Wiener Borse,Vienna,1771.0,63.0,Nan
+120,Europe,Europe,Azerbaijan,Baku Stock Exchange,Baku,2000.0,27.0,Nan
+121,Europe,Europe,Belarus,Belarusian Currency and Stock Exchange,Minsk,1998.0,0.0,Nan
+122,Europe,Europe,Bosnia and Herzegovina,Sarajevo Stock Exchange,Sarajevo,2001.0,0.0,Nan
+123,Europe,Europe,Bosnia and Herzegovina,Banja Luka Stock Exchange,Banja Luka,2001.0,0.0,Nan
+124,Europe,Europe,Bulgaria,Bulgarian Stock Exchange,Sofia,1914.0,0.0,Nan
+125,Europe,Europe,Channel Islands,The International Stock Exchange,Guernsey,2013.0,2000.0,Nan
+126,Europe,Europe,Croatia,Zagreb Stock Exchange,Zagreb,1907.0,45.0,Nan
+127,Europe,Europe,Cyprus,Cyprus Stock Exchange,Nicosia,1996.0,0.0,Nan
+128,Europe,Europe,Czech Republic,Prague Stock Exchange,Prague,1871.0,29.0,Nan
+129,Europe,Europe,Faroe Islands,Faroese Securities Market,Torshavn,2004.0,0.0,Nan
+130,Europe,Europe,Georgia,Georgian Stock Exchange,Tbilisi,1999.0,261.0,Nan
+131,Europe,Europe,Germany,Berliner Borse,Berlin,1685.0,0.0,Nan
+132,Europe,Europe,Germany,Borse Dusseldorf,Dusseldorf,1685.0,0.0,Nan
+133,Europe,Europe,Germany,Hamburg Stock Exchange,Hamburg/Hanover,1558.0,0.0,Nan
+134,Europe,Europe,Germany,Borse Munchen,Munchen,1830.0,0.0,Nan
+135,Europe,Europe,Germany,Borse Stuttgart,Stuttgart,1861.0,0.0,Nan
+136,Europe,Europe,Germany,Frankfurt Stock Exchange,Frankfurt,1585.0,492.0,Nan
+137,Europe,Europe,Gibraltar,Gibraltar Stock Exchange,Gibraltar,2014.0,0.0,Nan
+138,Europe,Europe,Greece,Athens Stock Exchange,Athens,1876.0,251.0,Nan
+139,Europe,Europe,Hungary,Budapest Stock Exchange,Budapest,1864.0,61.0,Nan
+140,Europe,Europe,Kazakhstan,Kazakhstan Stock Exchange,Almaty,1993.0,0.0,Nan
+141,Europe,Europe,Kazakhstan,Astana International Exchange,Astana,1993.0,0.0,Nan
+142,Europe,Europe,Luxembourg,Luxembourg Stock Exchange,Luxembourg ,1927.0,0.0,Nan
+143,Europe,Europe,Malta,Malta Stock Exchange,Valletta,1992.0,0.0,Nan
+144,Europe,Europe,Moldova,Moldova Stock Exchange,Chisinau,1994.0,0.0,Nan
+145,Europe,Europe,Montenegro,Montenegro Stock Exchange,Podgorica,1993.0,0.0,Nan
+146,Europe,Europe,Netherlands,Nxchange,Amsterdam,2015.0,8.0,Nan
+147,Europe,Europe,Netherlands,NPEX,The Hague,2009.0,0.0,Nan
+148,Europe,Europe,North Macedonia,Macedonian Stock Exchange,Skopje,1995.0,0.0,Nan
+149,Europe,Europe,Poland,Warsaw Stock Exchange,Warsaw,1817.0,449.0,Nan
+150,Europe,Europe,Romania,Bucharest Stock Exchange,Bucharest,1882.0,83.0,Nan
+151,Europe,Europe,Russia,Moscow Exchange,Moscow,2013.0,0.0,Nan
+152,Europe,Europe,Russia,Saint Petersburg Stock Exchange,Saint Petersburg,1997.0,0.0,Nan
+153,Europe,Europe,Serbia,Belgrade Stock Exchange,Belgrade,1894.0,66.0,Nan
+154,Europe,Europe,Slovakia,Bratislava Stock Exchange,Bratislava,1991.0,0.0,Nan
+155,Europe,Europe,Slovenia,Ljubljana Stock Exchange,Ljubljana,1989.0,61.0,Nan
+156,Europe,Europe,Spain,Bolsa de Valores de Barcelona,Barcelona,1915.0,0.0,Nan
+157,Europe,Europe,Spain,Bolsa de Valores de Bilbao,Bilbao,1890.0,0.0,Nan
+158,Europe,Europe,Spain,Bolsa de Madrid,Madrid,1831.0,0.0,Nan
+159,Europe,Europe,Spain,Mercado Oficial Espanol de Futuros y Opciones,Madrid,1989.0,0.0,Nan
+160,Europe,Europe,Spain,Bolsa de Valores de Valencia,Valencia,1981.0,0.0,Nan
+161,Europe,Europe,Sweden,Nasdaq First North Growth Market,Stockholm,2008.0,288.0,Nan
+162,Europe,Europe,Sweden,NGM Main Regulated,Stockholm,2003.0,10.0,Nan
+163,Europe,Europe,Sweden,NGM Nordic SME,Stockholm,2003.0,83.0,Nan
+164,Europe,Europe,Sweden,Spotlight Stock Market,Stockholm,1997.0,0.0,Nan
+165,Europe,Europe,Switzerland,SIX Swiss Exchange,Zurich,1850.0,266.0,Nan
+166,Europe,Europe,Switzerland,BX Swiss,Zurich,1888.0,18.0,Nan
+167,Europe,Europe,Turkey,Borsa Istanbul,Istanbul,1866.0,417.0,Nan
+168,Europe,Europe,Ukraine,PFTS Ukraine Stock Exchange,Kyiv,2002.0,0.0,Nan
+169,Europe,Europe,Ukraine,Ukrainian Exchange,Kyiv,2008.0,88.0,Nan
+170,Europe,Europe,United Kingdom,London Stock Exchange,London,1571.0,2800.0,Nan
+171,Australia,Oceania,Australia,APTEX,Sydney,2008.0,0.0,Nan
+172,Australia,Oceania,Australia,Sydney Stock Exchange ,Melbourne,1997.0,0.0,Nan
+173,Australia,Oceania,Australia,Australian Securities Exchange,Sydney,1987.0,0.0,ASX
+174,Australia,Oceania,Australia,Chi,Melbourne,2008.0,0.0,CXA
+175,Australia,Oceania,Australia,National Stock Exchange of Australia,Sydney,1937.0,0.0,NSX
+176,Australia,Oceania,Fiji,South Pacific Stock Exchange,Suva,1971.0,0.0,SPX
+177,Australia,Oceania,New Zealand,New Zealand Exchange,Wellington,2002.0,0.0,NZX
+178,Australia,Oceania,Papua New Guinea,PNGX Markets Limited,Port Moresby,1999.0,0.0,PNGX
+179,Asia,Central_Asia,Kazakhstan,Kazakhstan Stock Exchange,Almaty,1993.0,127.0,KASE
+180,Asia,Central_Asia,Kazakhstan,Astana International Exchange,Nur-Sultan,2018.0,25.0,AIX
+181,Asia,Central_Asia,Kyrgyzstan,Kyrgyz Stock Exchange ,Bishkek,1994.0,0.0,KSE
+182,Asia,Central_Asia,Tajikistan,Central Asian Stock Exchange,Dushanbe,2015.0,0.0,CASE
+183,Asia,Central_Asia,Turkmenistan,State Commodity and Raw Material Exchange of Turkmenistan,Ashgabat,1994.0,0.0,SRCMET
+184,Asia,Central_Asia,Uzbekistan,Tashkent Stock Exchange,Tashkent,1994.0,104.0,UZSE
+185,Asia,Eastern_Asia,China,Beijing Stock Exchange,Beijing,2021.0,88.0,BSE
+186,Asia,Eastern_Asia,China,Dalian Commodity Exchange,Dalian,1993.0,0.0,DCE
+187,Asia,Eastern_Asia,China,China Financial Futures Exchange,Shanghai,2006.0,0.0,CFFEX
+188,Asia,Eastern_Asia,China,Shanghai Futures Exchange,Shanghai,1999.0,0.0,SHFE
+189,Asia,Eastern_Asia,China,Shanghai Metal Exchange,Shanghai,1992.0,0.0,SHME
+190,Asia,Eastern_Asia,China,Shanghai Stock Exchange,Shanghai,1990.0,2061.0,SSE
+191,Asia,Eastern_Asia,China,Shenzhen Stock Exchange,Shenzhen,1991.0,2607.0,SZSE
+192,Asia,Eastern_Asia,China,Zhengzhou Commodity Exchange,Zhengzhou,1990.0,0.0,ZCE
+193,Asia,Eastern_Asia,Hong Kong,Hong Kong Stock Exchange,Hong Kong,1891.0,2538.0,SEHK
+194,Asia,Eastern_Asia,Hong Kong,Hong Kong Exchanges and Clearing,Hong Kong,2000.0,0.0,HKEx
+195,Asia,Eastern_Asia,Japan,Tokyo Stock Exchange,Tokyo,1878.0,1838.0,JPX
+196,Asia,Eastern_Asia,Japan,JASDAQ,Tokyo,1963.0,658.0,JPX
+197,Asia,Eastern_Asia,Japan,JASDAQ NEO,Tokyo,2007.0,2010.0,Nan
+198,Asia,Eastern_Asia,Japan,Mothers,Tokyo,1999.0,424.0,JPX
+199,Asia,Eastern_Asia,Japan,Tokyo Pro Market ,Tokyo,2009.0,56.0,JPX
+200,Asia,Eastern_Asia,Japan,Osaka Exchange ,Osaka,1878.0,16.0,JPX
+201,Asia,Eastern_Asia,Japan,Hercules ,Osaka,2000.0,2010.0, Hercules
+202,Asia,Eastern_Asia,Japan,Nagoya Stock Exchange,Nagoya,1886.0,182.0,NSE
+203,Asia,Eastern_Asia,Japan,Centrex,Nagoya,1999.0,14.0,Centrex
+204,Asia,Eastern_Asia,Japan,Fukuoka Stock Exchange,Fukuoka,1949.0,0.0,FSE
+205,Asia,Eastern_Asia,Japan,Q,Fukuoka,2000.0,0.0,QB
+206,Asia,Eastern_Asia,Japan,Sapporo Securities Exchange,Sapporo,1949.0,0.0,SSE
+207,Asia,Eastern_Asia,Japan,Ambitious,Sapporo,2000.0,0.0,AMB
+208,Asia,Eastern_Asia,Macau,Macao Financial Asset Exchange,Macau,2018.0,0.0,MOX
+209,Asia,Eastern_Asia,Mongolia,Mongolian Stock Exchange,Ulaanbaatar,1991.0,0.0,MSE
+210,Asia,Eastern_Asia,Mongolia,Ulaanbaatar Securities Exchange,Ulaanbaatar,2016.0,0.0,Nan
+211,Asia,Eastern_Asia,South Korea,Chosun Stock Exchange,Seoul,1943.0,11.0,Nan
+212,Asia,Eastern_Asia,South Korea,Korea Exchange,Busan,2005.0,2354.0,KRX
+213,Asia,Eastern_Asia,South Korea,Korea Stock Exchange,Seoul,1956.0,1.0,Nan
+214,Asia,Eastern_Asia,South Korea,KOSDAQ,Seoul,1996.0,1411.0,KOSDAQ
+215,Asia,Eastern_Asia,Taiwan,Taiwan Stock Exchange,Taipei,1961.0,898.0,TWSE
+216,Asia,Eastern_Asia,Taiwan,Taipei Exchange,Taipei,1994.0,0.0,TPEx
+217,Asia,Eastern_Asia,Taiwan,Taiwan Futures Exchange,Taipei,1998.0,0.0,TAIFEX
+218,Asia,Northern_Asia,Russia,Moscow Exchange ,Moscow,2011.0,219.0,MOEX
+219,Asia,Southeast_Asia,ASEAN,ASEAN Exchanges,Nan,2012.0,0.0,Nan
+220,Asia,Southeast_Asia,Cambodia,Cambodia Securities Exchange,Phnom Penh,2011.0,0.0,CSX
+221,Asia,Southeast_Asia,Indonesia,Indonesia Stock Exchange,Jakarta,1912.0,777.0,IDX
+222,Asia,Southeast_Asia,Indonesia,Jakarta Futures Exchange,Jakarta,1999.0,0.0,JFX
+223,Asia,Southeast_Asia,Indonesia,Indonesia Commodity and Derivatives Exchange,Jakarta,2009.0,0.0,ICDX
+224,Asia,Southeast_Asia,Laos,Lao Securities Exchange,Vientiane,2011.0,11.0,LSX
+225,Asia,Southeast_Asia,Malaysia,Bursa Malaysia,Kuala Lumpur,1964.0,801.0,MYX
+226,Asia,Southeast_Asia,Malaysia,Malaysia Derivatives Exchange,Kuala Lumpur,1980.0,0.0,Nan
+227,Asia,Southeast_Asia,Malaysia,MESDAQ,Kuala Lumpur,1997.0,0.0,Nan
+228,Asia,Southeast_Asia,Malaysia,FUSANG Exchange,Labuan,2015.0,0.0,FSC
+229,Asia,Southeast_Asia,Myanmar,Myanmar Securities Exchange Centre,Yangon,1996.0,0.0,MSEC
+230,Asia,Southeast_Asia,Myanmar,Yangon Stock Exchange,Yangon,2015.0,0.0,YSX
+231,Asia,Southeast_Asia,Philippines,Philippine Dealing Exchange,Metro Manila,2005.0,0.0,PDEx
+232,Asia,Southeast_Asia,Philippines,Philippine Stock Exchange,Metro Manila,1927.0,329.0,PSE
+233,Asia,Southeast_Asia,Philippines,Manila Commodity Exchange,Metro Manila,2011.0,0.0,MCX
+234,Asia,Southeast_Asia,Singapore,Singapore Exchange,Singapore,1999.0,776.0,SGX
+235,Asia,Southeast_Asia,Thailand,Stock Exchange of Thailand,Bangkok,1975.0,612.0,SET
+236,Asia,Southeast_Asia,Thailand,Market for Alternative Investment,Bangkok,1999.0,198.0,MAI
+237,Asia,Southeast_Asia,Thailand,Bond Electronic Exchange,Bangkok,2003.0,0.0,BEX
+238,Asia,Southeast_Asia,Thailand,AFET,Bangkok,2004.0,0.0,AFEX
+239,Asia,Southeast_Asia,Thailand,Thailand Futures Exchange,Bangkok,2005.0,0.0,TFEX
+240,Asia,Southeast_Asia,Vietnam,Ho Chi Minh Stock Exchange,Ho Chi Minh City,2000.0,396.0,HSX
+241,Asia,Southeast_Asia,Vietnam,Hanoi Securities Trading Center,Hanoi,2005.0,0.0,HNX
+242,Asia,Southern_Asia,Afghanistan,Afghanistan Stock Exchange,Kabul,2009.0,0.0,AFX
+243,Asia,Southern_Asia,Bangladesh,Chittagong Stock Exchange,Chittagong,1995.0,293.0,CSE
+244,Asia,Southern_Asia,Bangladesh,Dhaka Stock Exchange,Dhaka,1954.0,750.0,DSE
+245,Asia,Southern_Asia,Bhutan,Royal Securities Exchange of Bhutan,Thimphu,1993.0,20.0,RSEBL
+246,Asia,Southern_Asia,India,Bombay Stock Exchange,Mumbai,1875.0,5034.0,BSE
+247,Asia,Southern_Asia,India,India International Exchange,GIFT City,2017.0,0.0,INX
+248,Asia,Southern_Asia,India,Indian Commodity Exchange,Navi Mumbai,2017.0,0.0,ICEX
+249,Asia,Southern_Asia,India,Multi Commodity Exchange,Mumbai,2008.0,0.0,MCX
+250,Asia,Southern_Asia,India,National Commodity and Derivatives Exchange,Mumbai,2003.0,0.0,NCDEX
+251,Asia,Southern_Asia,India,National Stock Exchange of India,Mumbai,1992.0,1300.0,NSE
+252,Asia,Southern_Asia,Iran,Tehran Stock Exchange,Tehran,1967.0,666.0,TSE
+253,Asia,Southern_Asia,Iran,Iran Fara Bourse,Tehran,2008.0,547.0,IFB
+254,Asia,Southern_Asia,Iran,Iran Mercantile Exchange,Tehran,2006.0,0.0,IME
+255,Asia,Southern_Asia,Iran,Iranian Energy Exchange,Tehran,2008.0,0.0,IRENEX
+256,Asia,Southern_Asia,Maldives,Maldives Stock Exchange,Male,2002.0,10.0,MSE
+257,Asia,Southern_Asia,Nepal,Nepal Stock Exchange,Kathmandu,1993.0,333.0,NEPSE
+258,Asia,Southern_Asia,Pakistan,Pakistan Stock Exchange,Karachi,2016.0,540.0,PSX
+259,Asia,Southern_Asia,Sri Lanka,Colombo Stock Exchange,Colombo,1896.0,296.0,CSE
+260,Asia,Western_Asia,Bahrain,Bahrain Stock Exchange,Manama,1987.0,0.0,BSE
+261,Asia,Western_Asia,Iraq,Iraq Stock Exchange,Baghdad,2004.0,0.0,ISX
+262,Asia,Western_Asia,Israel,Tel Aviv Stock Exchange,Tel Aviv,1953.0,473.0,TASE
+263,Asia,Western_Asia,Jordan,Amman Stock Exchange,Amman,1999.0,0.0,ASE
+264,Asia,Western_Asia,Kuwait,Boursa Kuwait,Safat,1977.0,0.0,BK
+265,Asia,Western_Asia,Lebanon,Beirut Stock Exchange,Beirut,1920.0,0.0,BSE
+266,Asia,Western_Asia,Oman,Muscat Securities Market,Muscat,1988.0,0.0,MSM
+267,Asia,Western_Asia,Palestine,Palestine Securities Exchange,Nablus,1995.0,0.0,PSE
+268,Asia,Western_Asia,Qatar,Doha Securities Market,Doha,1997.0,0.0,DSM
+269,Asia,Western_Asia,Saudi Arabia,Tadawul,Riyadh,2007.0,202.0,Tadawul
+270,Asia,Western_Asia,Syria,Damascus Securities Exchange,Damascus,2009.0,24.0,DSE
+271,Asia,Western_Asia,United Arab Emirates,Abu Dhabi Securities Market,Abu Dhabi,2000.0,73.0,ADSM
+272,Asia,Western_Asia,United Arab Emirates,Dubai Financial Market,Dubai,2000.0,178.0,DFM
+273,Asia,Western_Asia,United Arab Emirates,NASDAQ Dubai,Dubai,2005.0,0.0,NASDAQ Dubai
+274,Asia,Western_Asia,United Arab Emirates,Dubai Gold & Commodities Exchange,Dubai,2005.0,0.0,DGCX
